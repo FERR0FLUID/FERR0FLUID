@@ -7,6 +7,8 @@ please read the carrd!
 i am not chronically online so there are some terms i do not understand. so if i don't understand half of your bio and it becomes obvious in conversation, do tell me.
 i like to people watch because it's interesting.
 
+i am also commonly tabbed out so if i take a while to respond, sorry! im more likely to notice if it's a whisper.
+
 these gifs and images are also funny to attach to your github pages LOL. 
 if you recognize the cube uhh no you dont no you dont nuh uh... 👀
 
