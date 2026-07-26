@@ -1,5 +1,5 @@
 <p align="center">
-![thishouseisafuckingnightmare](https://github.com/FERR0FLUID/FERR0FLUID/blob/main/HOUSE%20IS%20A%20FUCKING%20NIGHTMARE%20discord%20banner.png?raw=true)
+  <img src="https://github.com/FERR0FLUID/FERR0FLUID/blob/main/HOUSE%20IS%20A%20FUCKING%20NIGHTMARE%20discord%20banner.png?raw=true" />
 </p>
 hi chat
 
