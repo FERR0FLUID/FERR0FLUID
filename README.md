@@ -20,9 +20,12 @@
 <p align="center">
 hi chat
 
+<p align="center">
 please read the carrd! 
-
+</p>
+<p align="center">
 i have no clue what a lot of terms are but i'm fine with people sitting by me and interacting with me :D!! 
+</p>
 
 i am also commonly tabbed out, but usually present, just tabbing in intervals. 
 so if i take a while to respond, sorry! im more likely to notice if it's a whisper.
