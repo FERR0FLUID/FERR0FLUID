@@ -20,8 +20,8 @@
 <p align="center">
 hi chat
 
-<p align="center">
-please read the carrd! 
+<p align="center" text>
+<strong>please read the carrd!</strong>
 </p>
 <div align="center">
 i have no clue what a lot of terms are but i'm fine with people sitting by me and interacting with me :D!! 
