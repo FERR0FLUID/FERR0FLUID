@@ -30,11 +30,12 @@ only times i'm likely not to respond is if i'm busy. me being "away" is just bei
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
 
 </p>
-<p>
+<p align="center">
 <img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 <img src="https://cabinetofnovelties.com/assets/stamp4.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j6.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j5.png"/>
 <img src="https://lupinus.neocities.org/theythemstamp.png"/>
 <img src="https://lupinus.neocities.org/helpimonfire.gif"/>
+<img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 </p>
