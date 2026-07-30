@@ -8,6 +8,7 @@
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e23.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e87.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j18.png"/>
+<img src="https://adriansblinkiecollection.neocities.org/stamps/f22.png"/>
 </p>
 <p align="center">
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
