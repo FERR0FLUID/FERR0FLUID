@@ -11,5 +11,6 @@ i am also commonly tabbed out, but usually present, just tabbing in intervals. s
 only times i'm likely not to respond is if i'm busy. me being "away" is just being tabbed out half the time.
 <p>
 <img src="https://cabinetofnovelties.com/assets/stamp4.gif"/>
+<img src="https://adriansblinkiecollection.neocities.org/stamps/j6.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/i.gif"/>
 </p>
