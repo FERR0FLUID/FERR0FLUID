@@ -21,6 +21,7 @@
 hi chat
 
 please read the carrd! 
+
 i have no clue what a lot of terms are but i'm fine with people sitting by me and interacting with me :D!! 
 
 i am also commonly tabbed out, but usually present, just tabbing in intervals. 
