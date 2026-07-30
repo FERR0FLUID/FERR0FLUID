@@ -3,6 +3,9 @@
 </p>
 <p>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e103.gif"/>
+<img src="https://adriansblinkiecollection.neocities.org/stamps/e67.png"/>
+<img src="https://adriansblinkiecollection.neocities.org/stamps/g18.gif"/>
+<img src="https://adriansblinkiecollection.neocities.org/stamps/e23.png"/>
 </p>
 <p align="center">
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
