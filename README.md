@@ -9,6 +9,7 @@
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e87.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j18.png"/>
 <img src="https://lupinus.neocities.org/bigbillhellsstamp.png"/>
+<img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 </p>
 <p align="center">
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
