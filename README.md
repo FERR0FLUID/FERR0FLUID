@@ -18,9 +18,9 @@
 
 </p>
 <p align="center">
-<img width="50" height="50" margin-top="200" alt="the mechanism" src="https://github.com/user-attachments/assets/e8d263b2-6a1a-477b-902b-30e0d71f4653"/>
-hi chat
-<img width="50" height="50" alt="the mechanism" src="https://github.com/user-attachments/assets/e8d263b2-6a1a-477b-902b-30e0d71f4653" />
+<img width="50" height="50" alt="the mechanism" src="https://github.com/user-attachments/assets/e8d263b2-6a1a-477b-902b-30e0d71f4653" style="vertical-align: middle;"/>
+<span style="vertical-align: middle;">hi chat</span>
+<img width="50" height="50" alt="the mechanism" src="https://github.com/user-attachments/assets/e8d263b2-6a1a-477b-902b-30e0d71f4653" style="vertical-align: middle;"/>
 </p>
 <p align="center" text>
 <strong><em>please read the carrd!</em></strong>
