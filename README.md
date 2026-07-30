@@ -37,4 +37,5 @@ only times i'm likely not to respond is if i'm busy. me being "away" is just bei
 <img src="https://adriansblinkiecollection.neocities.org/stamps/h26.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/k47.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j5.png"/>
+<img src="https://lupinus.neocities.org/helpimonfire.gif"/>
 </p>
