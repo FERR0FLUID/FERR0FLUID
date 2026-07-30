@@ -6,6 +6,7 @@
 </p>
 <p>
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
+<img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
 </p>
 hi chat
 
