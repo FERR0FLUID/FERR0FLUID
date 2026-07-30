@@ -2,6 +2,7 @@
   <img src="https://github.com/FERR0FLUID/FERR0FLUID/blob/main/HOUSE%20IS%20A%20FUCKING%20NIGHTMARE%20discord%20banner.png?raw=true" />
 </p>
 <p>
+<img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e103.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e67.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/g18.gif"/>
@@ -11,9 +12,9 @@
 <img src="https://lupinus.neocities.org/bigbillhellsstamp.png"/>
 </p>
 <p align="center">
-<img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
+
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
-<img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
+
 </p>
 hi chat
 
@@ -24,11 +25,12 @@ i like to people watch because it's interesting.
 i am also commonly tabbed out, but usually present, just tabbing in intervals. so if i take a while to respond, sorry! im more likely to notice if it's a whisper.
 only times i'm likely not to respond is if i'm busy. me being "away" is just being tabbed out half the time.
 <p align="center">
-<img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
+
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
-<img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
+
 </p>
 <p>
+<img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 <img src="https://cabinetofnovelties.com/assets/stamp4.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j6.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/h26.png"/>
