@@ -28,7 +28,7 @@ i have no clue what a lot of terms are but i'm fine with people sitting by me an
 
 i am also commonly tabbed out, but usually present, just tabbing in intervals. 
 so if i take a while to respond, sorry! im more likely to notice if it's a whisper.
-only times i'm likely not to respond is if i'm busy. me being "away" is just being tabbed out half the time.
+only times i'm likely not to respond is if i'm busy. me being "away" is just being tabbed out half the time doing something else wHOOPS!
 </p>
 <p align="center">
 
