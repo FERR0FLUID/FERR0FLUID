@@ -1,6 +1,6 @@
 <style>
   .secDivider {
-    margin-left: 0px;
+    margin-left: -100px;
   }
 </style>
 
