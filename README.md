@@ -40,6 +40,7 @@ only times i'm likely not to respond is if i'm busy. me being "away" is just bei
 <p align="center">
 <img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 <img src="https://cabinetofnovelties.com/assets/stamp4.gif"/>
+<img src="https://github.com/user-attachments/assets/d392c0fe-2d0b-498c-a4ca-ae2705a0c186" />
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j6.png"/>
 <img src="https://github.com/user-attachments/assets/f973ab7f-01f2-4e56-906f-10e558329ff8" />
 <img src="https://lupinus.neocities.org/theythemstamp.png"/>
