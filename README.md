@@ -21,7 +21,7 @@
 hi chat
 
 <p align="center" text>
-<strong>please read the carrd!</strong>
+***please read the carrd!***
 </p>
 <div align="center">
 i have no clue what a lot of terms are but i'm fine with people sitting by me and interacting with me :D!! 
