@@ -42,7 +42,6 @@ only times i'm likely not to respond is if i'm busy. me being "away" is just bei
 <img src="https://github.com/user-attachments/assets/d392c0fe-2d0b-498c-a4ca-ae2705a0c186" />
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j6.png"/>
 <img src="https://github.com/user-attachments/assets/f973ab7f-01f2-4e56-906f-10e558329ff8" />
-<img src="https://lupinus.neocities.org/theythemstamp.png"/>
 <img src="https://github.com/user-attachments/assets/9f0b230f-b624-45f6-a721-61c3f349be5b" />
 <img src="https://github.com/user-attachments/assets/22c19bcb-88ea-471e-8cd0-baeb7a9e5b34" />
 <img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
