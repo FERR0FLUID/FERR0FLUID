@@ -4,6 +4,9 @@
 <p>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e103.gif"/>
 </p>
+<p>
+<img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
+</p>
 hi chat
 
 please read the carrd! 
