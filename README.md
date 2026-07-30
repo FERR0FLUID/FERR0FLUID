@@ -5,7 +5,6 @@
 <img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e103.gif"/>
 <img src="https://github.com/user-attachments/assets/fc12baef-e19c-48e9-8f7a-2f9328429df4" />
-<img src="https://adriansblinkiecollection.neocities.org/stamps/g18.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e23.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e87.gif"/>
 <img src="https://github.com/user-attachments/assets/79a68b69-2ad8-42b7-99a2-28eaa1f24b9d" />
