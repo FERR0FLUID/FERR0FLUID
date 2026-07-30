@@ -11,6 +11,7 @@
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j18.png"/>
 <img src="https://lupinus.neocities.org/theythemstamp.png"/>
 <img src="https://github.com/user-attachments/assets/637f40a3-a508-4cdf-8cd0-1e77cac399eb" />
+<img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 </p>
 <p align="center">
 
