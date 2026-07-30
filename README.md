@@ -1,3 +1,9 @@
+<style>
+  .secDivider {
+    margin-left: -20px;
+  }
+</style>
+
 <p align="center">
   <img src="https://github.com/FERR0FLUID/FERR0FLUID/blob/main/HOUSE%20IS%20A%20FUCKING%20NIGHTMARE%20discord%20banner.png?raw=true" />
 </p>
@@ -6,7 +12,7 @@
 </p>
 <p>
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
-<img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
+<img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif" class="secDivider"/>
 </p>
 hi chat
 
@@ -18,7 +24,7 @@ i am also commonly tabbed out, but usually present, just tabbing in intervals. s
 only times i'm likely not to respond is if i'm busy. me being "away" is just being tabbed out half the time.
 <p>
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
-<img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
+<img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif" class="secDivider"/>
 </p>
 <p>
 <img src="https://cabinetofnovelties.com/assets/stamp4.gif"/>
