@@ -9,7 +9,6 @@
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e23.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e87.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j18.png"/>
-<img src="https://lupinus.neocities.org/bigbillhellsstamp.png"/>
 <img src="https://lupinus.neocities.org/theythemstamp.png"/>
 <img src="https://github.com/user-attachments/assets/637f40a3-a508-4cdf-8cd0-1e77cac399eb" />
 </p>
