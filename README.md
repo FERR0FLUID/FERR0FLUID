@@ -1,8 +1,5 @@
 <style>
-
-  .imgRow {
-    display: flex;
-  }
+  
   .secDivider {
     margin-left: -100px;
   }
@@ -14,7 +11,7 @@
 <p>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e103.gif"/>
 </p>
-<p class="imgRow">
+<p>
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif" class="secDivider"/>
 </p>
@@ -26,7 +23,7 @@ i like to people watch because it's interesting.
 
 i am also commonly tabbed out, but usually present, just tabbing in intervals. so if i take a while to respond, sorry! im more likely to notice if it's a whisper.
 only times i'm likely not to respond is if i'm busy. me being "away" is just being tabbed out half the time.
-<p class="imgRow">
+<p>
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/dividers/electricdivider.gif" class="secDivider"/>
 </p>
