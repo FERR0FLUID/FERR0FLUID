@@ -9,7 +9,6 @@
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e23.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e87.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j18.png"/>
-<img src="https://lupinus.neocities.org/theythemstamp.png"/>
 <img src="https://github.com/user-attachments/assets/637f40a3-a508-4cdf-8cd0-1e77cac399eb" />
 <img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 </p>
@@ -35,8 +34,7 @@ only times i'm likely not to respond is if i'm busy. me being "away" is just bei
 <img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 <img src="https://cabinetofnovelties.com/assets/stamp4.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j6.png"/>
-<img src="https://adriansblinkiecollection.neocities.org/stamps/h26.png"/>
-<img src="https://adriansblinkiecollection.neocities.org/stamps/k47.png"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j5.png"/>
+<img src="https://lupinus.neocities.org/theythemstamp.png"/>
 <img src="https://lupinus.neocities.org/helpimonfire.gif"/>
 </p>
