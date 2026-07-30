@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/FERR0FLUID/FERR0FLUID/blob/main/HOUSE%20IS%20A%20FUCKING%20NIGHTMARE%20discord%20banner.png?raw=true" />
 </p>
-<p>
+<p align="center">
 <img src="https://lupinus.neocities.org/greenstamp5.jpg"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e103.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/e67.png"/>
