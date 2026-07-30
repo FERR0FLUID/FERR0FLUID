@@ -12,5 +12,5 @@ only times i'm likely not to respond is if i'm busy. me being "away" is just bei
 <p>
 <img src="https://cabinetofnovelties.com/assets/stamp4.gif"/>
 <img src="https://adriansblinkiecollection.neocities.org/stamps/j6.png"/>
-<img src="[https://adriansblinkiecollection.neocities.org/i.gif](https://adriansblinkiecollection.neocities.org/stamps/h26.png)"/>
+<img src="https://adriansblinkiecollection.neocities.org/stamps/h26.png"/>
 </p>
